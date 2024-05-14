@@ -1,0 +1,14 @@
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/bin/Debug/net8.0/formatting-mata-uang-rupiah
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/bin/Debug/net8.0/formatting-mata-uang-rupiah.deps.json
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/bin/Debug/net8.0/formatting-mata-uang-rupiah.runtimeconfig.json
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/bin/Debug/net8.0/formatting-mata-uang-rupiah.dll
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/bin/Debug/net8.0/formatting-mata-uang-rupiah.pdb
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/formatting-mata-uang-rupiah.GeneratedMSBuildEditorConfig.editorconfig
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/formatting-mata-uang-rupiah.AssemblyInfoInputs.cache
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/formatting-mata-uang-rupiah.AssemblyInfo.cs
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/formatting-mata-uang-rupiah.csproj.CoreCompileInputs.cache
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/formatting-mata-uang-rupiah.dll
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/refint/formatting-mata-uang-rupiah.dll
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/formatting-mata-uang-rupiah.pdb
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/formatting-mata-uang-rupiah.genruntimeconfig.cache
+/home/bonski/devkage-posts/formatting-mata-uang-rupiah/obj/Debug/net8.0/ref/formatting-mata-uang-rupiah.dll
